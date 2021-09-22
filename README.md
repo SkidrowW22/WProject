@@ -1,3 +1,3 @@
 W Project
 
-Developed with Unreal Engine 4
+In this new project the main goal is to create a fully playable and functional level with a few spell/power mechanics, AI's with ability to damage the player, main menu, pause menu, HUD, and an fully designed level (*for creating the level environments, objects and textures I am going to use AssetForge, which is a very helpfull app where you can build 3d models and basically everything with building blocks*). The goal of this project is to learn how to work with behavior trees which allows design an AI behavior, to create an fully animated character (*not just walking, running and jumping but also different animations for different spells, damage animation, death animation and others*), and most importantly to design and create an game level.
