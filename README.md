@@ -4,6 +4,7 @@ In this new project I want to create a fully playable and functional level with 
 I have already finished implementing the character in the project with several animations, 3 spells with animations, Health and Mana HUD which have tied variables and actually react to damage or heal spell.
 I'll start with a gameplay demo and after with screenshots of blueprints.
 (*You can see in the video the forth spell which is telekinesis but I've decided to not use it because it doesn't fit in the game design and it doesn't have anything in common with other spells*)
+
 https://youtu.be/99OZ6qwwvPw
 
 Right now I have only 3 spells, one is heal spell, another fireball spell and the last is a passive ability which is mana regeneration. Also, I created the health and mana bar which are connected to each other. Both health and mana represent variables with value equal to 1.0, everytime the player uses the heal spell, the mana bar decreases with 0.15 and health bar increases with 0.2, I didn't make the numbers equal because other spells require mana as well so it needs some balance. 
